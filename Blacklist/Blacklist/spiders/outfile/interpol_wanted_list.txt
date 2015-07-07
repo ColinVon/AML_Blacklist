@@ -1,0 +1,149 @@
+LU|CHUANBO|Male|16/07/1969 (45 years old)|QINGDAO, China|Chinese|China|
+WEIZHONG|JIN|Male|18/06/1970 (44 years old)|ZHEJIANG, China|China|
+WU|RENXIN|Male|19/02/1981 (34 years old)|FUJIAN, China|Chinese, English|China|
+SUN|GUANGLI|Male|15/04/1978 (36 years old)|HENAN, China|Chinese, Russian, English|China|
+SHEN|PEI|Male|07/07/1950 (64 years old)|FUSHUN / LIAONING, China|China|
+LI|XIANGDONG|Male|14/05/1965 (49 years old)|JIANGSU, China|Chinese|China|
+LIN|DINGYAN|Male|26/10/1949 (65 years old)|SHISHI, China|Chinese|China|
+ZHONG|WEI|Male|21/09/1964 (50 years old)|QINGDAO, China|Chinese|China|
+RAKHMATULLOEV (RAHMATULLOEV)|ISMOIL|Male|18/12/1950 (64 years old)|TURSUNZADE, Tajikistan|Uzbek, Tajik, Russian|China|
+ZHENG|SHUJUN|Female|25/07/1973 (41 years old)|BEIJING, China|Chinese|China|
+YONG|LIN QI|Male|12/06/1967 (47 years old)|China|China|
+HU|QINGQING|Female|29/01/1966 (49 years old)|HUNAN, China|China|
+ZHENG|YIGONG|Male|22/08/1970 (44 years old)|GUANGFENG / JIANGXI, China|Chinese, English|China|
+GUO|SHUANGJIN|Male|27/04/1959 (55 years old)|HEBEI, China|Chinese, English|China|
+LIU|BO|Male|01/02/1964 (51 years old)|ZHUZHOU / HUNAN, China|Chinese|China|
+LAI|MIN|Male|08/04/1952 (62 years old)|SHUNDE / GUANGDONG, China|Chinese|China|
+ZHANG|AIMEI|Female|25/11/1953 (61 years old)|CHANGNING / HUNAN, China|Chinese|China|
+QIU|ZONGMAN|Male|13/08/1960 (54 years old)|JINTANG TOWN, SHISHI CITY, FUJIAN PROVINCE, China|Chinese|China|
+YAO|XIAOPING|Male|05/04/1965 (49 years old)|FUXIN LIAONING PROVINCE, China|Chinese|China|
+TENZIN CHOZIN|Male|1967 (47 years old)|CHATERING / TIBET, China|Tibetan, Hindi|China|
+XIE|LONG|Male|12/02/1971 (44 years old)|QINGDAO, China|Chinese|China|
+ZHONG|DONG|Male|07/01/1969 (46 years old)|QINGDAO, China|Chinese|China|
+XIE|SHUZHAO|Male|17/07/1949 (65 years old)|FOSHAN / GUANG, China|Chinese|China|
+ZHONG|FANG|Male|07/01/1969 (46 years old)|QINGDAO, China|Chinese|China|
+RAKHMATULLOEV (RAHMATULLOEV)|FARRUKH|Male|20/08/1978 (36 years old)|TURSUNZADE, Tajikistan|Tajik, Uzbek, Russian|China|
+LOBSANG CHODAK|Male|1971 (43 years old)|CHATERING / TIBET, China|Tibetan, Hindi|China|
+LENG|MINGQUAN|Male|12/07/1967 (47 years old)|CHONGQING, China|Chinese|China|
+ZU|YANG TIEN|Male|01/09/1947 (67 years old)|Chinese, Portuguese|China, Brazil|
+QUN|YE AI|Male|17/08/1978 (36 years old)|China|Chinese|China|
+GUO|XIN|Female|18/03/1964 (51 years old)|YUNNAN, China|Chinese, English|China|
+ZHANG|ZHENJUAN|Female|24/04/1965 (49 years old)|SHANGHAI, China|Chinese|China|
+LI|LINA|Female|04/05/1956 (58 years old)|BEIJING, China|Chinese|China|
+DENG|WENZHONG|Male|02/07/1963 (51 years old)|CHANGNING / HUNAN, China|Chinese|China|
+ZHIZHONG|CAI|Male|11/03/1962 (53 years old)|CHEN DONG, China|English, Chinese|China|
+XU|BEI|Female|02/01/1960 (55 years old)|SHANGHAI, China|Chinese|China|
+SHEN|LI|Male|03/10/1959 (55 years old)|ZHEJIANG, China|Chinese|China|
+LI|OU|Female|03/08/1978 (36 years old)|ZHEJIANG, China|Chinese|China|
+WANG|JIHUA|Male|13/12/1968 (46 years old)|JIANCHANG, LIOANING, China|Chinese, English|China|
+WU|GUO WEI|Male|05/11/1967 (47 years old)|GUANG DONG, China|Chinese, English|China|
+WU|YOUFU|Male|10/11/1951 (63 years old)|China|China|
+HO|HOI YAN|Female|24/03/1974 (41 years old)|HONG KONG, China|Chinese, English|Canada, China|
+XU|AIHONG|Female|29/03/1965 (50 years old)|POYANG, China|Chinese|China|
+LAM|KEVIN|Male|15/10/1974 (40 years old)|Viet nam|Chinese, English, Vietnamese|United states, Viet nam, China|
+LI|XIN|Male|17/09/1977 (37 years old)|TONGHUA CITY, JILIN PROVINCE, China|Chinese|China|
+CHE|YI|Male|12/06/1954 (60 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+HE|YAOGUO|Male|15/04/1972 (42 years old)|RUI'AN CITY, ZHEJIANG PROVINCE, China|Chinese|China|
+JIN|JIAN|Male|06/10/1993 (21 years old)|MEIHEKOU CITY, JILIN PROVINCE, China|Korean, Chinese|China|
+SUN|FENG|Male|12/05/1972 (42 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Chinese|China|
+NIE|GAOQIANG|Male|07/11/1959 (55 years old)|JIULONG, Hong kong, china|China|
+MENG|JUN|Male|11/09/1955 (59 years old)|SHENYANG,LIAONING PROVINCE, China|China|
+CHEN|RICKY|Male|16/06/1966 (48 years old)|Indonesia|Chinese, Indonesian, English|Indonesia, China, Thailand, United states|
+ZHAO|CHUN-YAN|Female|16/09/1969 (45 years old)|SHENYANG, China|Chinese|China|
+XIAO|LIE|Male|05/05/1970 (44 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+ZHENG|ZIPING|Male|02/12/1952 (62 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+LIN|ZICHONG|Male|15/11/1970 (44 years old)|HONGKONG, China|Chinese, Korean|China|
+ZHAO|FUAN|Male|07/04/1968 (46 years old)|China|Chinese|China|
+LI|YONGZHE|Male|17/03/1973 (42 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Chinese, Korean|China|
+CAI|XINGWEI|Male|19/07/1959 (55 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+LIU|HONG|Male|26/07/1960 (54 years old)|FUSHUN CITY,LIAONING PROVINCE, China|Chinese|China|
+CHEN|WANGLI|Male|16/02/1975 (40 years old)|WUHAN CITY, HUBEI PROVINCE, China|Chinese|China|
+FENG|JIESONG|Male|11/03/1963 (52 years old)|JILIN CITY, JILIN PROVINCE, China|Chinese|China|
+LI|NAIYI|Male|10/01/1964 (51 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Chinese|China|
+TANG|GUOFA|Male|21/08/1958 (56 years old)|FUSHUN CITY, LIAONING PROVINCE, China|Chinese|China|
+YANG|YONG|Female|26/12/1958 (56 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+WANG|JIAZHE|Male|24/12/1961 (53 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+ZHU|LIHUA|Male|02/11/1957 (57 years old)|PANJIN CITY, LIAONING PROVINCE, China|Chinese|China|
+CHOU|TUNGMING|Male|11/04/1966 (48 years old)|Taiwan, china|China|
+PAN|CHAOLIANG|Male|12/08/1964 (50 years old)|GUANGZHOU, China|Chinese|China|
+ZHU|HAIPING|Male|07/09/1963 (51 years old)|WUHAN CITY, HUBEI PROVINCE, China|Chinese|China|
+GUAN|MANYING|Female|26/09/1967 (47 years old)|WUHAN, China|Chinese|China|
+WANG|RENQING|Male|25/05/1955 (59 years old)|TAIBEI CITY, Taiwan, china|Chinese|China|
+YU|GUIJIAO|Female|20/09/1963 (51 years old)|China|Chinese|China|
+YAN|SONGLIN|Male|24/05/1962 (52 years old)|GUANGZHOU, China|Chinese|China|
+HAN|XINGGUO|Male|20/07/1962 (52 years old)|HUAINAN CITY OF ANHUI PROVINCE, China|Chinese|China|
+CHEN|ZHAOJIN|Male|28/05/1988 (26 years old)|GUANGZHOU, China|Chinese, English|China|
+MA|JUNWEI|Male|05/02/1963 (52 years old)|HUANGGE DISTRICT,SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+SHEN|ZHONGGUO|Male|07/07/1982 (32 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Korean, Chinese|China|
+LIAO|ZHIGUANG|Male|24/12/1959 (55 years old)|GUANGZHOU, China|Chinese|China|
+SU|YINGQI|Male|23/04/1944 (70 years old)|KAIYUAN,LIAONING PROVINCE, China|Chinese|China|
+CHE|CHANGWEN|Male|21/01/1964 (51 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+JIN|GUANGHAO|Male|14/12/1962 (52 years old)|MULING CITY, HEILONGJIANG PROVINCE, China|Chinese|China|
+JIN|BAO|Male|09/12/1960 (54 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+LIU|WENCAN|Male|06/11/1971 (43 years old)|Taiwan, china|Chinese|China|
+LIN|FENGXIE|Male|15/01/1961 (54 years old)|PINGLIANG CITY, GANSU PROVINCE, China|Korean, Chinese|China|
+LI|XIANG|Male|10/07/1982 (32 years old)|SHENYNG,LIAONING PROVINCE, China|Chinese|China|
+DING|HONGXI|Male|23/05/1961 (53 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Chinese|China|
+WANG|MEI|Female|20/10/1964 (50 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Chinese|China|
+WANG|SHENWEI|Male|20/10/1971 (43 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+WU|DAMING|Male|30/07/1970 (44 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese, English|China|
+PIAO|CHANGHAO|Male|10/05/1965 (49 years old)|SHENYANG CITY, LIAONING PROVINCE, China|Chinese|China|
+DIAO|WENHAI|Male|05/11/1978 (36 years old)|JILIN, China|China|
+FU|JUNYING|Female|28/10/1955 (59 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+LIN|ZHIFU|Male|12/09/1986 (28 years old)|FUJIAN, China|Chinese|China|
+LIANG|FENG ZHI|Male|29/11/1959 (55 years old)|GUANGDONG PROVINCE, China|Chinese|China|
+LI|SHUNBAI|Female|25/03/1967 (48 years old)|LIAONING PROVINCE, China|Chinese, Korean|China|
+CHIEN|YIH KUANG|Male|20/09/1940 (74 years old)|TAIPEI CITY, China|Chinese, English|China|
+LI|DONGZHU|Male|10/07/1972 (42 years old)|SHENYANG,LIAONING PROVINCE, China|Chinese|China|
+PENG|WEI QING|Female|16/08/1992 (22 years old)|GUANG DONG, China|Chinese|China|
+XIAO|SHIHONG|Male|02/01/1976 (39 years old)|SICHUN, China|Chinese, English|China|
+WU|ZUOPING|Male|18/10/1980 (34 years old)|China|Chinese|China|
+MA|YAN|Female|15/04/1970 (44 years old)|PEKING, China|China|
+XU|FAN|Female|20/09/1972 (42 years old)|LIAONING, China|Chinese, English|China|
+LUAN|GANG|Male|07/03/1963 (52 years old)|Chinese|China|
+ZHAO|LIJUN|Male|16/02/1963 (52 years old)|SHENYANG CITY,LIAONING PROVINCE, China|Chinese|China|
+ZHAO|YING|Male|30/01/1958 (57 years old)|HEILONGJIANG, China|Chinese|China|
+WANG|ANTHONY|Male|19/11/1983 (31 years old)|BEIJING, China|Chinese, English|China|
+YIN|GEFENG|Male|16/05/1979 (35 years old)|HEILONGJIANG, China|Chinese, English, Russian|China|
+ZHANG|SHULIN|Male|24/04/1952 (62 years old)|China|Chinese|China|
+SHEN|QIANG|Male|17/10/1979 (35 years old)|HEILONGJIANG, China|Chinese, Korean|China|
+LI|ZHONG MING|Male|22/12/1961 (53 years old)|SHANGHAI, China|Chinese|China|
+SHANG|HUANG WEN|Male|17/06/1958 (56 years old)|Taiwan, china|Chinese, Indonesian|China|
+PENG|DING|Female|21/07/1961 (53 years old)|GUANG DONG, China|Chinese|China|
+LIU|YI|Male|10/06/1965 (49 years old)|China|Chinese, English|China|
+SONG|LONGYUM|Male|06/10/1979 (35 years old)|SICHUAN, China|Chinese, English|China|
+CHEN|YUN|Male|05/03/1986 (29 years old)|HUNAN, China|Chinese|China|
+LIN|XIANDONG|Male|27/09/1968 (46 years old)|FUJIAN, China|English, Chinese|China|
+ZHOU|JINGHUA|Female|07/09/1969 (45 years old)|GUANGDONG PROVINCE, China|Thai, Chinese|China|
+CHU|CHING JUNG|Male|10/03/1955 (60 years old)|Taiwan, china|Chinese, English|China|
+CUI|SONG SEN|Male|10/09/1968 (46 years old)|China|English, Chinese, Korean|China|
+DONG|YONG HUA|Male|15/11/1969 (45 years old)|FUJIAN, FUZHOU, China|English, Chinese|China, United states|
+HENDRAWAN|BENNY|Male|05/05/1965 (49 years old)|Indonesian, Chinese|China|
+WONG|DANNY MK|Male|26/04/1963 (51 years old)|Hong kong, china|English, Chinese|United kingdom, China|
+XU|LINGXIANG|Male|19/03/1951 (64 years old)|ZHEJIANG, China|Chinese|China|
+LIU|JUNFENG|Male|14/11/1976 (38 years old)|ZHEJIANG, China|China|
+GAO|ZHENXIANG|Male|27/11/1954 (60 years old)|KAO CHENG HSIANG, China|China|
+CHEN|DA BENG|Male|25/06/1960 (54 years old)|China|Chinese|China|
+XU|NUJIU|Male|07/05/1956 (58 years old)|FUJIAN, China|Chinese, Russian|China|
+YAN|QIANG|Male|04/09/1969 (45 years old)|NANCHANG CITY, JIANGXI PROVINCE, China|Chinese|China|
+HSU|JACK|Male|02/08/1948 (66 years old)|SHANGHAI, China|Chinese, English, Spanish|China|
+MAIMAITIAILI|AIKEPAER|Male|24/09/1977 (37 years old)|XINJIANG, China|Chinese, Russian|China|
+LIU|CHUNQING|Male|24/01/1966 (49 years old)|ZHEIJANG, China|Chinese|China|
+WANG|XIN|Male|15/02/1967 (48 years old)|LIAONING PROVINCE, China|Chinese|China|
+LI|HUA|Female|16/06/1976 (38 years old)|WENZHOU CITY, ZHEJIANG PROVINCE, China|Chinese|China|
+LAI|YONG CHUAN|Male|03/05/1950 (64 years old)|TAIWAN, China|Chinese, Spanish, English|China|
+LI|WAI HUNG|Male|26/09/1948 (66 years old)|HONGKONG, China|Chinese|China|
+ZHANG|JING|Female|09/03/1971 (44 years old)|LIAONING, China|Chinese|China|
+ZHU|SHANBAO|Male|03/10/1955 (59 years old)|ANHUI, China|Chinese|China|
+NG|TIK YIU DANNY|Male|21/12/1967 (47 years old)|HONGKONG, China|Chinese|China|
+ZHENG|BEN JIN|Male|31/10/1978 (36 years old)|FUJIAN, China|Chinese, Spanish|China|
+XIN|HAOPENG|Male|28/12/1978 (36 years old)|WUXI CITY, JIANGSU PROVINCE, China|Chinese|China|
+SHI|LEI|Male|29/05/1963 (51 years old)|BAOJI CITY / SHAANXI PROVINCE, China|Chinese|China|
+WU|ZUONG SHU|Male|15/10/1966 (48 years old)|JIANG GU, China|Chinese, English|China|
+ZHAN|LIJIN|Male|06/06/1977 (37 years old)|FUJIAN PROVINCE, MINQING COUNTY, China|Chinese|China|
+ZHAO|FENGLING|Female|21/07/1960 (54 years old)|JILIN, China|Chinese, Russian|China|
+CHEN|TAI|Male|03/10/1954 (60 years old)|Taiwan, china|English, Chinese|United states, China|
+LIU|FENGYU|Male|02/08/1969 (45 years old)|QINGDAO, China|Chinese|China|
+JIANG|BO|Male|07/06/1978 (36 years old)|SHANDONG, China|Chinese, English|China|
+FENG|SHILAN|Female|19/10/1963 (51 years old)|ANHUI PROVINCE, China|Chinese|China|
+HUANG|SHUWEN|Male|11/03/1949 (66 years old)|SUIFENGHE, HEILONGJANG TERRITORY, China|Chinese|China|
